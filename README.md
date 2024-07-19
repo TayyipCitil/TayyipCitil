@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayyip Çitil</h1>
 <h3 align="center">I am a computer engineering student in Türkiye</h3>
 
-- 🌱 I’m currently learning **Java, MatLab**
+- 🌱 I’m currently learning **Java, MatLab, Git**
 
 - 📫 How to reach me **tayyipcitil0@gmail.com**
 
