@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Git, Java, MatLab**
 
-- 📫 How to reach me **tayyipcitil0@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tayyipcitil0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyip çi̇ti̇l" height="30" width="40" /></a>
